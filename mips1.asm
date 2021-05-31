@@ -1,8 +1,5 @@
 #CSI 333. Programming at the Hardware-Software Interface
 #Spring 2019
-#Li Lin
-#ZR1702
-#2017215126
 #Qin Weiwei
 
 	.data
